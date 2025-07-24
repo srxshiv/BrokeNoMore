@@ -127,8 +127,8 @@ export default function Home() {
                 <Wallet className="h-8 w-8 text-white" />
               </div>
               <div>
-                <h1 className="text-3xl font-bold text-gray-900">Personal Finance Dashboard</h1>
-                <p className="text-gray-600">Track your income, expenses, and budgets with detailed insights</p>
+                <h1 className="text-3xl font-bold text-gray-900">Broke No More</h1>
+                <p className="text-gray-600">Master Your Money. Break the Broke Cycle.</p>
               </div>
             </div>
             <div className="flex gap-2">
